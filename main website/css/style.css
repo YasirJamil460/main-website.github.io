@@ -1,0 +1,28 @@
+hr{
+  border-style: none none none;
+  border-top: dotted;
+  border-color: #8E806A ;
+  border-width: 6px;
+  width: 5%;
+}
+body {
+  background-color: #F0ECE3;
+}
+h1{
+  color: #8E806A;
+}
+img{
+  border-radius: 100%;
+}
+h3{
+  color: #8E806A;
+}
+th{
+  color: #8E806A ;
+}
+.chat{
+  color: black;
+}
+.image:hover{
+  border-radius:20%;
+}
